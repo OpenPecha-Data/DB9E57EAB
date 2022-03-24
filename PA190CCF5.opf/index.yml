@@ -7,5 +7,5 @@ annotations:
     span:
     - vol: 42
       start: 1
-      end: 840
+      end: 826
     work_id: N4680
